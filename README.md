@@ -36,7 +36,6 @@ http://127.0.0.1:5500
 
 - `admin / admin123`
 - `officer / officer123`
-- `resident / resident123`
 
 ## Features
 
